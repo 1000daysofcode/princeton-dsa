@@ -20,7 +20,7 @@ Algorithms I : [Course Link](https://www.coursera.org/learn/algorithms-part1)
 | Week | Assignment Name | Specifications | FAQ |
 | ---- | --------------- | -------------- | --- |
 | 1 | Percolation | [Link](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/percolation/faq.php) |
-| 2 | Deques & Randomized Queues | [Link](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/queues/faq.php) |
+| 2 | Deques &  Queues | [Link](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/queues/faq.php) |
 | 3 | Collinear Points | [Link](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/collinear/faq.php) |
 | 4 | 8 Puzzle | [Link](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/faq.php) |
 | 5 | Kd-Trees | [Link](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/faq.php) |
