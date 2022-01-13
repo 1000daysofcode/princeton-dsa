@@ -16,7 +16,7 @@ Each week's assignments are broken into directories that contain one folder for 
 ## Links to assignment specifications
 
 ---
-Algorithms I : Course Link
+Algorithms I : [Course Link](https://www.coursera.org/learn/algorithms-part1)
 | Week | Assignment Name | Specifications | FAQ |
 | ---- | --------------- | -------------- | --- |
 | 1 | Percolation | [Link](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/percolation/faq.php) |
@@ -25,7 +25,7 @@ Algorithms I : Course Link
 | 4 | 8 Puzzle | [Link](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/faq.php) |
 | 5 | Kd-Trees | [Link](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/faq.php) |
 ---
-Algorithms II : Course Link
+Algorithms II : [Course Link](https://www.coursera.org/learn/algorithms-part1)
 | Week | Assignment Name | Specifications | FAQ |
 | ---- | --------------- | -------------- | --- |
 | 1 | WordNet | [Link](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php) | [Link](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/faq.php) |
